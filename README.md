@@ -61,28 +61,28 @@
     * [使用Tensorflow2搭建EfficientNet](https://www.bilibili.com/video/BV1PK4y1S7Jf)
 
   * EfficientNet_V2 (已完成)
-    * [EfficientNetV2网络讲解](https://b23.tv/NDR7Ug)
-    * [使用Pytorch搭建EfficientNetV2](https://b23.tv/M4hagB)
-    * [使用Tensorflow搭建EfficientNetV2](https://b23.tv/KUPbdr)
+    * [EfficientNetV2网络讲解](https://www.bilibili.com/video/BV19v41157AU)
+    * [使用Pytorch搭建EfficientNetV2](https://www.bilibili.com/video/BV1Xy4y1g74u)
+    * [使用Tensorflow搭建EfficientNetV2](https://www.bilibili.com/video/BV19K4y1g7m4)
   
   * RepVGG（已完成）
     * [RepVGG网络讲解](https://www.bilibili.com/video/BV15f4y1o7QR)
 
   * Vision Transformer(已完成)
-    * [Multi-Head Attention讲解](https://b23.tv/gucpvt)
+    * [Multi-Head Attention讲解](https://www.bilibili.com/video/BV15v411W78M)
     * [Vision Transformer网络讲解](https://www.bilibili.com/video/BV1Jh411Y7WQ)
-    * [使用Pytorch搭建Vision Transformer](https://b23.tv/TT4VBM)
+    * [使用Pytorch搭建Vision Transformer](https://www.bilibili.com/video/BV1AL411W7dT)
     * [使用tensorflow2搭建Vision Transformer](https://www.bilibili.com/video/BV1q64y1X7GY)
 
   * Swin Transformer(已完成)
     * [Swin Transformer网络讲解](https://www.bilibili.com/video/BV1pL4y1v7jC)
-    * [使用Pytorch搭建Swin Transformer](https://b23.tv/vZnpJf)
-    * [使用Tensorflow2搭建Swin Transformer](https://b23.tv/UHLMSF)
+    * [使用Pytorch搭建Swin Transformer](https://www.bilibili.com/video/BV1yg411K7Yc)
+    * [使用Tensorflow2搭建Swin Transformer](https://www.bilibili.com/video/BV1bR4y1t7qT)
 
   * ConvNeXt(已完成)
     * [ConvNeXt网络讲解](https://www.bilibili.com/video/BV1SS4y157fu)
-    * [使用Pytorch搭建ConvNeXt](https://b23.tv/gzpCv5z)
-    * [使用Tensorflow2搭建ConvNeXt](https://b23.tv/zikVoch)
+    * [使用Pytorch搭建ConvNeXt](https://www.bilibili.com/video/BV14S4y1L791)
+    * [使用Tensorflow2搭建ConvNeXt](https://www.bilibili.com/video/BV1TS4y1V7Gz)
 
   * MobileViT(已完成)
     * [MobileViT网络讲解](https://www.bilibili.com/video/BV1TG41137sb)
@@ -91,18 +91,18 @@
 * 目标检测
   * Faster-RCNN/FPN（已完成）
     * [Faster-RCNN网络讲解](https://www.bilibili.com/video/BV1af4y1m7iL)
-    * [FPN网络讲解](https://b23.tv/Qhn6xA)
+    * [FPN网络讲解](https://www.bilibili.com/video/BV1dh411U7D9)
     * [Faster-RCNN源码解析(Pytorch)](https://www.bilibili.com/video/BV1of4y1m7nj)
 
   * SSD/RetinaNet (已完成)
     * [SSD网络讲解](https://www.bilibili.com/video/BV1fT4y1L7Gi)
-    * [RetinaNet网络讲解](https://b23.tv/ZYCfd2)
+    * [RetinaNet网络讲解](https://www.bilibili.com/video/BV1Q54y1L7sM)
     * [SSD源码解析(Pytorch)](https://www.bilibili.com/video/BV1vK411H771)
 
   * YOLO Series (已完成)
     * [YOLO系列网络讲解(V1~V3)](https://www.bilibili.com/video/BV1yi4y1g7ro)
     * [YOLOv3 SPP源码解析(Pytorch版)](https://www.bilibili.com/video/BV1t54y1C7ra)
-    * [YOLOV4网络讲解](https://b23.tv/WLptQ7Q)
+    * [YOLOV4网络讲解](https://www.bilibili.com/video/BV1NF41147So)
     * [YOLOV5网络讲解](https://www.bilibili.com/video/BV1T3411p7zR)
     * [YOLOX 网络讲解](https://www.bilibili.com/video/BV1JW4y1k76c)
   
@@ -126,7 +126,7 @@
   
   * U-Net (已完成)
     * [U-Net网络讲解](https://www.bilibili.com/video/BV1Vq4y127fB/)
-    * [U-Net源码解析(Pytorch版)](https://b23.tv/PCJJmqN)
+    * [U-Net源码解析(Pytorch版)](https://www.bilibili.com/video/BV1Vq4y127fB)
   
   * U2Net (已完成)
     * [U2Net网络讲解](https://www.bilibili.com/video/BV1yB4y1z7mj)
@@ -149,14 +149,6 @@
 **[更多相关视频请进入我的bilibili频道查看](https://space.bilibili.com/18161609/channel/index)**
 
 ---
-
-## 所需环境
-* Anaconda3（建议使用）
-* python3.6/3.7/3.8
-* pycharm (IDE)
-* pytorch 1.10 (pip package)
-* torchvision 0.11.1 (pip package)
-* tensorflow 2.4.1 (pip package)
 
 欢迎大家关注下我的微信公众号（**阿喆学习小记**），平时会总结些相关学习博文。    
 
