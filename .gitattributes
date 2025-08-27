@@ -1,0 +1,112 @@
+# ==== 文字檔：repo 內一律 LF；Windows 檢出時自動轉 CRLF ====
+* text=auto
+
+# 明確標示出常見的文字副檔名（加強可讀性、更穩定）
+*.py     text
+*.ipynb  text
+*.md     text
+*.txt    text
+*.csv    text
+*.tsv    text
+*.json   text
+*.yaml   text
+*.yml    text
+*.xml    text
+*.ini    text
+*.cfg    text
+*.toml   text
+*.sh     text
+*.bat    text
+*.ps1    text
+*.cmake  text
+*.h      text
+*.hpp    text
+*.c      text
+*.cc     text
+*.cpp    text
+*.java   text
+*.js     text
+*.ts     text
+*.css    text
+*.html   text
+*.tex    text
+
+# ==== 二進位或不該動行尾的檔案 ====
+# 圖片 / 視訊 / 音訊
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.bmp binary
+*.tif binary
+*.tiff binary
+*.webp binary
+*.mp4 binary
+*.mov binary
+*.avi binary
+*.wav binary
+*.mp3 binary
+*.flac binary
+
+# 文件 / 向量圖
+*.pdf  binary
+*.ppt  binary
+*.pptx binary
+*.doc  binary
+*.docx binary
+*.xls  binary
+*.xlsx binary
+*.eps  binary
+*.svg  binary
+
+# 壓縮 / 封存
+*.zip binary
+*.7z  binary
+*.rar binary
+*.gz  binary
+*.tgz binary
+*.bz2 binary
+*.xz  binary
+*.tar binary
+
+# 模型 / 權重 / 張量快照
+*.pt    binary
+*.pth   binary
+*.onnx  binary
+*.tflite binary
+*.pb    binary
+*.h5    binary
+*.safetensors binary
+*.npz   binary
+*.npy   binary
+*.ckpt  binary
+
+# 資料庫 / 序列化
+*.db   binary
+*.sqlite binary
+*.leveldb binary
+*.mdb  binary
+*.pickle binary
+*.pkl  binary
+*.feather binary
+*.parquet binary
+*.arrow binary
+
+# 可執行 / 目標檔
+*.exe  binary
+*.dll  binary
+*.lib  binary
+*.pyd  binary
+*.so   binary
+*.dylib binary
+*.a    binary
+*.o    binary
+
+# 其他大檔或非文字
+*.bin  binary
+*.dat  binary
+*.iso  binary
+*.img  binary
+
+# （選用）Jupyter Notebook：保持文字屬性以利 diff；如不想 diff 可改為 binary
+# *.ipynb binary
